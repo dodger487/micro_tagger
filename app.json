@@ -1,0 +1,8 @@
+{
+  "name": "Article tagger",
+  "description": "Text category tagging micro service",
+  "image": "heroku/python",
+  "repository": "https://github.com/dodger487/micro_tagger",
+  "keywords": ["python", "flask", "ml" ],
+  "addons": [ "heroku-postgresql" ]
+}
